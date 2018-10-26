@@ -2,5 +2,7 @@
 }
 
 .from-main-branch {
+    display: none;
+    position: absolute;
     font-weight: bold;
 }
